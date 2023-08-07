@@ -12,4 +12,6 @@
 **4. It's time to install the requirements. `$ pip3 install -r requirements.txt`**  
 **6. By doing so, you'll be able to run the script. `$ python3 lanscan.py`**  
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="50" height="50" />
