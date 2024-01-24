@@ -1,8 +1,4 @@
-## Dependencies
-
-**scapy: `$ sudo pip3 install scapy`**
-
-##
+## lanscan
 
 ## Installing on Debian, Ubuntu or their derivatives
 
