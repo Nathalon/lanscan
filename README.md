@@ -1,4 +1,4 @@
-## LanScan
+## lanscan
 
 ## Installing on Debian, Ubuntu or their derivatives
 
